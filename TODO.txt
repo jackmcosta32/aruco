@@ -1,0 +1,6 @@
+TODO:
+    * Tentar detectar o marcador ArUco em um vídeo capturado por uma webcam e substituí-lo por uma outra imagem.
+    * Deixo como dica a página do OpenCV que já mostra dois códigos de como vocês podem ler um vídeo de um arquivo ou capturar um vídeo da sua própria câmera.
+    https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_video_display/py_video_display.html
+    * Agora é só usar o Notebook sobre Aruco que mostrei na aula e juntar as ideias.
+    * Dica: melhor fazer fora no Google Colab, ou seja, direto em python, porque os códigos abrem janelas do próprio OpenCV. No Colab vocês provavelmente terão de usar o Matplotlib, mas acredito que também pode ser feito.
